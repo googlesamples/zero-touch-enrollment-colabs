@@ -1,12 +1,12 @@
 # Zero-touch enrollment colabs
 
-The project contains a [Colaboratory](https://research.google.com/colaboratory/) notebook for calling the [customer](https://developers.google.com/zero-touch/guides/customer/how-it-works) API for [Android zero-touch enrollment](https://developers.google.com/zero-touch).
+The project contains [Colaboratory](https://research.google.com/colaboratory/) notebooks for calling the [customer](https://developers.google.com/zero-touch/guides/customer/how-it-works) and [reseller](https://developers.google.com/zero-touch/guides/how-it-works) APIs for [Android zero-touch enrollment](https://developers.google.com/zero-touch).
 
-The notebook can be used as a playground to get familiar with the API before you start developing your own integration.
+The notebook can be used as a playground to get familiar with each of the APIs before you start developing your own integration.
 
-To get started, visit https://colab.google and upload the Zero_touch_enrollment_customer_API.ipynb file.
+To get started, visit https://colab.google and upload the .ipynb files.
 
-To make use of the API, you will need a zero-touch enrollment customer account, which your Android device reseller can create for you.
+To make use of the customer API, you will need a zero-touch enrollment customer account, which your Android device reseller can create for you. To make user of the reseller API you will need to be a zero-touch device reseller; you can use your reseller ID which is listed in the zero-touch portal.
 
 ---
 
